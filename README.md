@@ -1,2 +1,1 @@
-abastecalegal
-=============
+repositorio abasteça legal - Sistema movel de auxilio em abastecimento de combustível
